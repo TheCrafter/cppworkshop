@@ -1,0 +1,5 @@
+*.txt
+CMakeFiles/
+bin/
+build/
+cmake_uninstall.cmake
